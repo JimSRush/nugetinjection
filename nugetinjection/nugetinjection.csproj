@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
 		<!-- This overrides the /p:RestoreTaskAssemblyFile=nuget.exe global property -->
-		<RestoreTaskAssemblyFile>C:\Users\jim\source\repos\evilcalc\evilcalc\bin\Debug\evilcalc.dll</RestoreTaskAssemblyFile>
+		<RestoreTaskAssemblyFile>$(MSBuildProjectDirectory)\task.dll</RestoreTaskAssemblyFile>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
