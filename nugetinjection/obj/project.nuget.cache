@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HuZ1fvG/g6w=",
+  "success": false,
+  "projectFilePath": "C:\\users\\jim\\source\\repos\\nugetinjection\\nugetinjection\\nugetinjection.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Newtonsoft.Json' from remote source 'https://api.nuget.org/v3/index.json /p:RestoreTaskAssemblyFile=C:\\Windows\\System32\\notepad.exe /p:x=/FindPackagesById()?id='Newtonsoft.Json'&semVerLevel=2.0.0'.\r\n  Response status code does not indicate success: 400 (Bad Request).",
+      "projectPath": "C:\\users\\jim\\source\\repos\\nugetinjection\\nugetinjection\\nugetinjection.csproj",
+      "filePath": "C:\\users\\jim\\source\\repos\\nugetinjection\\nugetinjection\\nugetinjection.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

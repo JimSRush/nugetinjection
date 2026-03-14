@@ -1,0 +1,14 @@
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\bin\Debug\net8.0\nugetinjection.exe
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\bin\Debug\net8.0\nugetinjection.deps.json
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\bin\Debug\net8.0\nugetinjection.runtimeconfig.json
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\bin\Debug\net8.0\nugetinjection.dll
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\bin\Debug\net8.0\nugetinjection.pdb
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.AssemblyInfoInputs.cache
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.AssemblyInfo.cs
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.csproj.CoreCompileInputs.cache
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.dll
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\refint\nugetinjection.dll
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.pdb
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\nugetinjection.genruntimeconfig.cache
+C:\Users\jim\source\repos\nugetinjection\nugetinjection\obj\Debug\net8.0\ref\nugetinjection.dll
