@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" TreatAsLocalProperty="RestoreTaskAssemblyFile">
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
-		<!-- This overrides the /p:RestoreTaskAssemblyFile=nuget.exe global property -->
 		<RestoreTaskAssemblyFile>$(MSBuildProjectDirectory)\evilcalc.dll</RestoreTaskAssemblyFile>
 	</PropertyGroup>
 	<ItemGroup>
