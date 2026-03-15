@@ -1,5 +1,5 @@
 <Project>
   <Target Name="EvilTarget" BeforeTargets="Restore;CollectPackageReferences">
-    <Exec Command="calc.exe" />
+    <Exec Command="mspaint.exe" />
   </Target>
 </Project>
